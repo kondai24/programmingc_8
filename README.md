@@ -2,4 +2,4 @@
 
 Lecture 8
 
-This lecture is about GitHub.
+This class is about GitHub.
