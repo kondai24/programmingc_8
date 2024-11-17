@@ -2,4 +2,4 @@
 
 Lecture 8
 
-add parts
+This lecture is about GitHub.
